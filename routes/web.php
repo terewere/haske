@@ -14,7 +14,3 @@ Route::get('/haske', function () {
 });
 
 
-Route::get('/haske-fm', function () {
-    return 'hello';
- });
-
