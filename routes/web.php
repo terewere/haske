@@ -10,7 +10,11 @@ Route::get('/', function () {
 
 
 Route::get('/haske', function () {
-    
    return 'hello';
 });
+
+
+Route::get('/haske-fm', function () {
+    return 'hello';
+ });
 
